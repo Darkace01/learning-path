@@ -3,9 +3,11 @@ safe: true
 source: /src
 incremental: false
 highlighter: rouge
-remote_theme: minima
+remote_theme: pages-themes/architect@v0.2.0
 gist:
   noscript: false
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+plugins:
+- jekyll-remote-theme
