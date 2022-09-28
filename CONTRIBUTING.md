@@ -23,7 +23,15 @@ If you are interested to contribute to this project please follow this guide.
 
 ### Description: path description.
 
+### Links
+
+- [Courses](/courses.md)
+- [Resources](/resources.md)
+
 ### Sections:
 
 1. section 1
 ```
+
+4. create the courses.md and resources.md files in the path folder
+5. Link the courses.md and resources.md files in the index.md file
