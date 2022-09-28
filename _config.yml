@@ -3,6 +3,7 @@ safe: true
 source: /src
 incremental: false
 highlighter: rouge
+remote_theme: minima
 gist:
   noscript: false
 kramdown:
