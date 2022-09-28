@@ -3,13 +3,13 @@ safe: true
 source: /src
 incremental: false
 highlighter: rouge
-remote_theme: pages-themes/architect@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 gist:
   noscript: false
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
 title: Learning Path
 description: An open source path for anyone getting into various paths of Tech
