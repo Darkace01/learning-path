@@ -8,6 +8,25 @@ Courses to learn web development.
 
 ### Free Courses
 
+- [FreeCodeCamp](https://www.freecodecamp.org/learn/) - FreeCodeCamp
+- [The Odin Project](https://www.theodinproject.com/) - The Odin Project
+- [Frontend Masters](https://frontendmasters.com/) - Frontend Masters
+- [Sololearn](https://www.sololearn.com/) - Sololearn
+- [Programming With Mosh](https://www.youtube.com/watch?v=qz0aGYrrlhU) - Learn HTML
+- [Programming With Mosh](https://www.youtube.com/watch?v=UB1O30fR-EE) - Learn CSS
+- [Traversy Media](https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU) - HTML and CSS
+- [Traversy Media](https://www.youtube.com/watch?v=hdI2bqOjy3c&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX) - JavaScript
+
+### Paid Courses
+
+- [Frontend Masters](https://frontendmasters.com/) - Frontend Masters
+- [Zero to Mastery](https://zerotomastery.io/courses/coding-bootcamp/) - Complete Web Developer
+- [Code with Mosh](https://codewithmosh.com/p/mastering-react) - Mastering React
+- [Code With Mosh](https://codewithmosh.com/p/the-complete-node-js-course) - The Complete Node.js Course
+- [Code With Mosh](https://codewithmosh.com/p/the-complete-react-native-course) - The Complete React Native Course
+- [Code With Mosh](https://codewithmosh.com/p/the-complete-javascript-course) - The Complete JavaScript Course
+- [Code With Mosh](https://codewithmosh.com/p/the-complete-web-development-course) - The Complete Web Development Course
+- [Code With Mosh](https://codewithmosh.com/p/the-complete-python-course) - The Complete Python Course
 - [Codecademy](https://www.codecademy.com/learn/learn-html) - Learn HTML
 - [Codecademy](https://www.codecademy.com/learn/learn-css) - Learn CSS
 - [Codecademy](https://www.codecademy.com/learn/learn-javascript) - Learn JavaScript
@@ -34,26 +53,3 @@ Courses to learn web development.
 - [Codecademy](https://www.codecademy.com/learn/learn-r) - Learn R
 - [Codecademy](https://www.codecademy.com/learn/learn-swift) - Learn Swift
 - [Codecademy](https://www.codecademy.com/learn/learn-graphql) - Learn GraphQL
-- [Codecademy](https://www.codecademy.com/learn/learn-graphql) - Learn GraphQL
-- [Codecademy](https://www.codecademy.com/learn/learn-graphql) - Learn GraphQL
-- [Codecademy](https://www.codecademy.com/learn/learn-graphql) - Learn GraphQL
-
-- [FreeCodeCamp](https://www.freecodecamp.org/learn/) - FreeCodeCamp
-- [The Odin Project](https://www.theodinproject.com/) - The Odin Project
-- [Frontend Masters](https://frontendmasters.com/) - Frontend Masters
-- [Sololearn](https://www.sololearn.com/) - Sololearn
-- [Programming With Mosh](https://www.youtube.com/watch?v=qz0aGYrrlhU) - Learn HTML
-- [Programming With Mosh](https://www.youtube.com/watch?v=UB1O30fR-EE) - Learn CSS
-- [Traversy Media](https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU) - HTML and CSS
-- [Traversy Media](https://www.youtube.com/watch?v=hdI2bqOjy3c&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX) - JavaScript
-
-### Paid Courses
-
-- [Frontend Masters](https://frontendmasters.com/) - Frontend Masters
-- [Zero to Mastery](https://zerotomastery.io/courses/coding-bootcamp/) - Complete Web Developer
-- [Code with Mosh](https://codewithmosh.com/p/mastering-react) - Mastering React
-- [Code With Mosh](https://codewithmosh.com/p/the-complete-node-js-course) - The Complete Node.js Course
-- [Code With Mosh](https://codewithmosh.com/p/the-complete-react-native-course) - The Complete React Native Course
-- [Code With Mosh](https://codewithmosh.com/p/the-complete-javascript-course) - The Complete JavaScript Course
-- [Code With Mosh](https://codewithmosh.com/p/the-complete-web-development-course) - The Complete Web Development Course
-- [Code With Mosh](https://codewithmosh.com/p/the-complete-python-course) - The Complete Python Course
