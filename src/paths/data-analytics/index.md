@@ -1,4 +1,4 @@
-## Title: Data Science 
+## Title: Data Science and Analytics
 
 ### Description: A path to become a data scientist.
 
