@@ -49,11 +49,11 @@ Courses to learn web development.
 
 ### Paid Courses
 
-[Frontend Masters](https://frontendmasters.com/) - Frontend Masters
-[Zero to Mastery](https://zerotomastery.io/courses/coding-bootcamp/) - Complete Web Developer
-[Code with Mosh](https://codewithmosh.com/p/mastering-react) - Mastering React
-[Code With Mosh](https://codewithmosh.com/p/the-complete-node-js-course) - The Complete Node.js Course
-[Code With Mosh](https://codewithmosh.com/p/the-complete-react-native-course) - The Complete React Native Course
-[Code With Mosh](https://codewithmosh.com/p/the-complete-javascript-course) - The Complete JavaScript Course
-[Code With Mosh](https://codewithmosh.com/p/the-complete-web-development-course) - The Complete Web Development Course
-[Code With Mosh](https://codewithmosh.com/p/the-complete-python-course) - The Complete Python Course
+- [Frontend Masters](https://frontendmasters.com/) - Frontend Masters
+- [Zero to Mastery](https://zerotomastery.io/courses/coding-bootcamp/) - Complete Web Developer
+- [Code with Mosh](https://codewithmosh.com/p/mastering-react) - Mastering React
+- [Code With Mosh](https://codewithmosh.com/p/the-complete-node-js-course) - The Complete Node.js Course
+- [Code With Mosh](https://codewithmosh.com/p/the-complete-react-native-course) - The Complete React Native Course
+- [Code With Mosh](https://codewithmosh.com/p/the-complete-javascript-course) - The Complete JavaScript Course
+- [Code With Mosh](https://codewithmosh.com/p/the-complete-web-development-course) - The Complete Web Development Course
+- [Code With Mosh](https://codewithmosh.com/p/the-complete-python-course) - The Complete Python Course
