@@ -16,6 +16,7 @@ Courses to learn web development.
 - [Programming With Mosh](https://www.youtube.com/watch?v=UB1O30fR-EE) - Learn CSS
 - [Traversy Media](https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU) - HTML and CSS
 - [Traversy Media](https://www.youtube.com/watch?v=hdI2bqOjy3c&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX) - JavaScript
+- [Frontend Web Development Bootcamp Course (JavaScript, HTML, CSS)](https://www.youtube.com/watch?v=zJSY8tbf_ys) -FreeCodeCamp
 
 ### Paid Courses
 

@@ -11,3 +11,8 @@
 - [Data Structures and Algorithms in Python](https://www.youtube.com/watch?v=pkYVOmU3MgA) - FreeCodeCamp
 - [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM) - freeCodeCamp.org
 - [Data Structures - Full Course Using C and C++](https://www.youtube.com/watch?v=8hly31xKli0) - freeCodeCamp.org
+- [Havard CS50](https://cs50.harvard.edu/x/2022/) - Havard CS50 course
+
+### Paid Courses
+
+- [Master the Coding Interview: Data Structures + Algorithms](https://zerotomastery.io/courses/learn-data-structures-and-algorithms/)
