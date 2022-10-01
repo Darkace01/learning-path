@@ -12,6 +12,7 @@ Current Theme is [Cayman](https://github.com/pages-themes/cayman)
 
 ## Index
 
+* [Cyber-Security](https://github.com/InTruder-Sec/learning-path/blob/main/src/paths/cyber-security/index.md)
 * [Data-Analytics](https://github.com/InTruder-Sec/learning-path/blob/main/src/paths/data-analytics/index.md)
 * [Data-Science](https://github.com/InTruder-Sec/learning-path/blob/main/src/paths/data-science/index.md)
 * [Digital-Marketing](https://github.com/InTruder-Sec/learning-path/blob/main/src/paths/digital-marketing/index.md)
@@ -19,7 +20,6 @@ Current Theme is [Cayman](https://github.com/pages-themes/cayman)
 * [Mobile-Development](https://github.com/InTruder-Sec/learning-path/blob/main/src/paths/mobile-development/index.md)
 * [Project-management](https://github.com/InTruder-Sec/learning-path/blob/main/src/paths/project-management/index.md)
 * [Web-Development](https://github.com/InTruder-Sec/learning-path/blob/main/src/paths/web-development/index.md)
-* [Cyber-Security]()
 
 
 ### Contributing
