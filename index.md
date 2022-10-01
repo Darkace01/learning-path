@@ -10,6 +10,7 @@ We would be sharing the basic guides, links to free and premium course. These co
 - [General Programming Skills](/src/paths/general-programming-skills/index.md)
 - [Mobile Development](/src/paths/mobile-development/index.md)
 - [Cyber Security](/src/paths/cyber-security/index.md)
-- [Data Science and Analytics](/src/paths/data-science/index.md)
+- [Data Analytics](/src/paths/data-analytics/index.md)
+- [Data Science](/src/paths/data-science/index.md)
 - [Project Management, Product Management](/src/paths/project-management/index.md)
 - [Digital Marketing](/src/paths/digital-marketing/index.md)
