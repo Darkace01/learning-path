@@ -10,6 +10,18 @@ You can find a link to the project [here](https://github.com/users/Darkace01/pro
 
 Current Theme is [Cayman](https://github.com/pages-themes/cayman)
 
+## Index
+
+* [Cyber-Security](https://github.com/InTruder-Sec/learning-path/blob/main/src/paths/cyber-security/index.md)
+* [Data-Analytics](https://github.com/InTruder-Sec/learning-path/blob/main/src/paths/data-analytics/index.md)
+* [Data-Science](https://github.com/InTruder-Sec/learning-path/blob/main/src/paths/data-science/index.md)
+* [Digital-Marketing](https://github.com/InTruder-Sec/learning-path/blob/main/src/paths/digital-marketing/index.md)
+* [General-Programming-skills](https://github.com/InTruder-Sec/learning-path/blob/main/src/paths/general-programming-skills/index.md)
+* [Mobile-Development](https://github.com/InTruder-Sec/learning-path/blob/main/src/paths/mobile-development/index.md)
+* [Project-management](https://github.com/InTruder-Sec/learning-path/blob/main/src/paths/project-management/index.md)
+* [Web-Development](https://github.com/InTruder-Sec/learning-path/blob/main/src/paths/web-development/index.md)
+
+
 ### Contributing
 
 If you are interested in contributing to this project, please read the [contributing guidelines](CONTRIBUTING.md) and [code of conduct](CODE_OF_CONDUCT.md).
