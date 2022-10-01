@@ -20,7 +20,7 @@
 * [Complete Ethical Hacking Course by Joseph Delgadillo - 8 hour course](https://www.youtube.com/watch?v=fDeLtKUxTmM)
 
   
-#### Training Resources
+### Training Resources
 * [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - Self-explanatory.
 * [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - Encyclopedia of web security information.
 * [Corelan.be](https://www.corelan.be/index.php/articles/) - Website containing many useful training resources and tutorial.
