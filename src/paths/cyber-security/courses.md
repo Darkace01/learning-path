@@ -18,6 +18,8 @@ List of free and paid courses to make career in Cyber Security
 * [CompTIA Security+ SY0-501 Training Course By Professor Messer](https://www.youtube.com/playlist?list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy)
 * [Complete Ethical Hacking Course By HackerSploit - Part1 of 126](https://www.youtube.com/watch?v=tHd8k54kVs8&list=PLBf0hzazHTGOEuhPQSnq-Ej8jRyXxfYvl)
 * [Complete Ethical Hacking Course by Joseph Delgadillo - 8 hour course](https://www.youtube.com/watch?v=fDeLtKUxTmM)
+* [Complete Bug Bounty For Beginners](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
+* [Fundamentals of Cybersecurity](https://www.sans.org/cyberaces/)
 
   
 ### Training Resources
@@ -37,4 +39,5 @@ List of free and paid courses to make career in Cyber Security
 * [PortSwigger's lab](https://portswigger.net/web-security/all-labs) - Free and advanced labs for hands on training. 
 * [Phishing With Empire](https://enigma0x3.net/2016/03/15/phishing-with-empire/) - Guide on phishing with Empire.
 * [Phishing With PowerPoint](https://www.blackhillsinfosec.com/phishing-with-powerpoint/) - Guide on getting unsuspecting users to open malicious PPT files.
+* [Integriti](https://blog.intigriti.com/hackademy/) - Learn about Vulnerabilities and Bug hunting tools.
   
